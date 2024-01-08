@@ -7,7 +7,7 @@ namespace FooA_Challenge_EndpointAPI.Controllers;
 public class HelloEndpoint
 {
     [HttpGet]
-    [Route("Hello/{name}")]
+    [Route("{name}")]
     public string SayHello(string name){
         return $"Hello, {name}";
     }
