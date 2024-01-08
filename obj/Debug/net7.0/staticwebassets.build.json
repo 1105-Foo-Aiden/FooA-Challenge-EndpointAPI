@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9jcoi5pO6jLWKuAOlMLXOmNFg6hpLWGqePTqVjMsiKA=",
+  "Source": "FooA-Challenge-EndpointAPI",
+  "BasePath": "_content/FooA-Challenge-EndpointAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
